@@ -28,6 +28,9 @@ This is a curated list of resources for building a web application in Typescript
   - Eventsourcing
   - TypeORM
 - GraphQL/Apollo
+- Static analysis
+  - ESlint
+  - Prettier
 
 ## Typescript
 
